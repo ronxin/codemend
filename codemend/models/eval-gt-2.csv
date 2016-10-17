@@ -1,0 +1,362 @@
+case_study_no,answer,query,query_source
+example-1,plt.bar.set_hatch plt.bar@hatch,add cross lines to the bars,mturk3
+example-1,plt.bar.set_hatch plt.bar@hatch,Add diagonals to each Case labels.,mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,Add left-slanting score marks on Case 1,mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,Add right-slanting score marks on Case 2,mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,Add stripes to the bars.  ,mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,apply hatch,mturk3
+example-1,plt.bar.set_hatch plt.bar@hatch,bar chart set pattern,mturk3
+example-1,plt.bar.set_hatch plt.bar@hatch,"draw inclinated lines in all the rectangles related to the item Adam , Bobby and Charlie.",mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,place slanted down lines on blue bars ,mturk2
+example-1,plt.bar.set_hatch plt.bar@hatch,Place slanted up lines on pink bars ,mturk2
+example-1,plt.bar@color,Change and lighten bar graph filler color,mturk2
+example-1,plt.bar@color,Change Case 1 color to pink and Case 2 color to light blue.,mturk2
+example-1,plt.bar@color,change colour of bars on chart,mturk3
+example-1,plt.bar@color,change colour of bars on graph,mturk3
+example-1,plt.bar@color,change colour of graph,mturk3
+example-1,plt.bar@color,change the blue color to sky blue,mturk3
+example-1,plt.bar@color,change the bright blue to a dull blue,mturk2
+example-1,plt.bar@color,change the bright red to a dull red,mturk2
+example-1,plt.bar@color,change the red color to pink,mturk3
+example-1,plt.bar@color,Color has weakened,mturk1
+example-1,plt.bar@color,colors of bars are dimed,mturk2
+example-1,plt.bar@color,don't use such bold colors,mturk3
+example-1,plt.bar@color,fade colors,mturk3
+example-1,plt.bar@color,Fade the colors of the graph bars.  ,mturk2
+example-1,plt.bar@color,Lighten the color of the bars ,mturk2
+example-1,plt.bar@color,lighten the colors,mturk3
+example-1,plt.bar@color,Put the color lighter,mturk2
+example-1,plt.bar@color,Replace blue bars with light blue bars  ,mturk2
+example-1,plt.bar@color,Replace blue bars with pink bars  ,mturk2
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,change fill of bars on graph,mturk3
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,change colors and lines inside the bars,mturk2
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,How do I change the bar graph color and pattern,mturk3
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,make colors lighter and add diagnoal back bars,mturk2
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,make the blue bars light blue with diagonally running lines through them,mturk2
+example-1,plt.bar@color plt.bar.set_hatch plt.bar@hatch,make the red bars light red with diagonally running lines through them,mturk2
+example-1,plt.bar@width plt.bar.set_width,add space between different points of information,mturk3
+example-1,plt.bar@width plt.bar.set_width,add space between points,mturk3
+example-1,plt.bar@width plt.bar.set_width,add spacing between the bars  ,mturk2
+example-1,plt.bar@width plt.bar.set_width,increase spacing between bars on chart,mturk3
+example-1,plt.bar@width plt.bar.set_width,separate bars,mturk3
+example-1,plt.bar@width plt.bar.set_width,Separate slightly the connected bars,mturk2
+example-1,plt.figure@figsize plt.subplots@figsize,How do I resize my bar graph chart,mturk3
+example-1,plt.figure@figsize plt.subplots@figsize,make graph wider and shorter,mturk2
+example-1,plt.figure@figsize plt.subplots@figsize,make the whole box wider,mturk2
+example-1,plt.figure@figsize plt.subplots@figsize,Resize image by shortening and elongating,mturk2
+example-1,plt.grid,change the sqaure grids in the graph to blank,mturk2
+example-1,plt.grid,Delete gridlines in background,mturk2
+example-1,plt.grid,disable background grid,mturk3
+example-1,plt.grid,How do I remove the grid format,mturk3
+example-1,plt.grid,Remove grid.,mturk2
+example-1,plt.grid,remove gridlines from chart,mturk3
+example-1,plt.grid,Remove the gridlines,mturk2
+example-1,plt.grid,remove vertical and horizontal dotted lines,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,Add legend on bottom,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,change legend position,mturk3
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,change position of legend on chart,mturk3
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,How do I move a legend from my bar graph below the graph,mturk3
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,move legend from side to underneath graph,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,move legend to bottom of chart,mturk3
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,move legend to the bottom,mturk3
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,Move the infor tab from right side to the bottom,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,move the legend to the bottom,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,Put the guide at the bottom of the graph ,mturk2
+example-1,plt.legend@loc plt.legend@bbox_to_anchor,Relocate the legend below the horizontal axis.,mturk2
+example-1,plt.legend@ncol,Make legend side by side instead of top and bottom ,mturk2
+example-1,plt.legend@ncol,make the entries horizontal. ,mturk2
+example-1,plt.legend@ncol,move labels in legend from stacked to side by side,mturk2
+example-2,plt.axis,Change figure from elliptical shape to circular shape,mturk2
+example-2,plt.axis,change figure to circular shape,mturk2
+example-2,plt.axis,change perspective of graph is circular,mturk2
+example-2,plt.axis,How do I make my pie chart less flat,mturk3
+example-2,plt.axis,remove the slant from the circle pie chart to make it a circle rather than an oval  ,mturk2
+example-2,plt.axis,reshape the image into a circle,mturk1
+example-2,plt.axis,Scale down the pie chart. ,mturk2
+example-2,plt.pie@autopct,Add % to each sections  ,mturk2
+example-2,plt.pie@autopct,add numbers to each section,mturk2
+example-2,plt.pie@autopct,add percentage numbers to each pie piece  ,mturk2
+example-2,plt.pie@autopct,Add percentage values for each section. ,mturk2
+example-2,plt.pie@autopct,add percentages,mturk3
+example-2,plt.pie@autopct,add percentages add drop shadow ,mturk2
+example-2,plt.pie@autopct,add percentages to each colored wedge ,mturk1
+example-2,plt.pie@autopct,Add percentages to each piece of the pie chart. ,mturk2
+example-2,plt.pie@autopct,Create percentages for each portion of the graph. ,mturk2
+example-2,plt.pie@autopct,How do I add percentages to my pie chart categories,mturk3
+example-2,plt.pie@autopct,how to add percents to a graph,mturk3
+example-2,plt.pie@autopct,Percentage has been included. ,mturk1
+example-2,plt.pie@autopct,pie chart show percentages,mturk3
+example-2,plt.pie@autopct,Put percentage to all the item  ,mturk2
+example-2,plt.pie@autopct,put the percentage value 39 to yellow colored portion,mturk3
+example-2,plt.pie@autopct,show percents on pies,mturk3
+example-2,plt.pie@explode,detach the sections ,mturk2
+example-2,plt.pie@explode,divide Hogs wedge from rest of graph ,mturk2
+example-2,plt.pie@explode,Emphasize 'Hogs' section by separating it from chart. ,mturk2
+example-2,plt.pie@explode,How do I separate a slice of category from my pie chart,mturk3
+example-2,plt.pie@explode,Hogs has been split ,mturk1
+example-2,plt.pie@explode,Hogs has been split.,mturk1
+example-2,plt.pie@explode,Hogs section is slightly lifted from circle.,mturk2
+example-2,plt.pie@explode,Segregate the Hogs portion slightly form the graph for emphasis.  ,mturk2
+example-2,plt.pie@explode,Separate Hogs piece slightly from the rest of the pie chart.  ,mturk2
+example-2,plt.pie@explode,separate the hogs pie piece ,mturk2
+example-2,plt.pie@explode,Separate the item Hogs from the graphics  ,mturk2
+example-2,plt.pie@explode,separate the yellow wedge from the rest of the circle ,mturk1
+example-2,plt.pie@explode,slightly separate the yellow wedge from the rest of the graph,mturk1
+example-2,plt.pie@explode,split the yellow colored portion from the graph,mturk3
+example-2,plt.pie@explode,The portion of Hogs is little shifted,mturk1
+example-2,plt.pie@shadow,add a slight 3-d depth to the pie chart,mturk2
+example-2,plt.pie@shadow,draw 3d,mturk3
+example-2,plt.pie@shadow,make pie chart 3d,mturk3
+example-2,plt.pie@startangle,Adjust the angle of the pie chart.  ,mturk2
+example-2,plt.pie@startangle,change orientation of pie chart,mturk3
+example-2,plt.pie@startangle,rotate 90 degree  ,mturk2
+example-2,plt.pie@startangle,Rotate graph 90 degrees counter clockwise  ,mturk2
+example-2,plt.pie@startangle,Rotate graph so that the two largest portions are pointing downwards. ,mturk2
+example-2,plt.pie@startangle,Rotate the chart so the larger sections are more center.  ,mturk2
+example-2,plt.pie@startangle,rotate the figure so Frogs is on top  ,mturk2
+example-2,plt.pie@startangle,rotate the graph 90 degrees counter clockwise ,mturk2
+example-2,plt.pie@startangle,rotate the graph counter clockwise about 25 degrees ,mturk1
+example-2,plt.pie@startangle,Rotate the image  ,mturk2
+example-2,plt.pie@startangle,Rotate the pie chart counter clockwise. ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Add blue color to the title.  ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Change color for title to blue  ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Change the color of the box named Raining hogs and dogs ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Change the color of the figure title background to light blue.  ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,change the color of the title from gray to blue ,mturk1
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,change the title background color to blue ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,change title background color as blue,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,change title background to blue,mturk3
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Change title filler color to blue.  ,mturk2
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,graph title background color,mturk3
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,Heading background became blue  ,mturk1
+example-2,plt.title.set_bbox@facecolor plt.title@bbox@facecolor,How do I add color to the title of my pie chart,mturk3
+example-3,plt.annotate,"Add an arrow that says ""biggest"" to the biggest point.",mturk2
+example-3,plt.annotate,add arrow pointing to large orange bubble,mturk2
+example-3,plt.annotate,Add arrow to specific point in scatter graph,mturk3
+example-3,plt.annotate,Add biggest arrow point.  ,mturk2
+example-3,plt.annotate,add biggest label to the biggest orange circle  ,mturk2
+example-3,plt.annotate,add in arrow and biggest label  ,mturk2
+example-3,plt.annotate,Adding arrow on graph ,mturk3
+example-3,plt.annotate,Adding text to graph  ,mturk3
+example-3,plt.annotate,annotate specific points in a scatter chart,mturk3
+example-3,plt.annotate,Biggest is marked ,mturk1
+example-3,plt.annotate,How do I draw an arrow to the biggest circle in my graph,mturk3
+example-3,plt.annotate,"in the orange circle , the biggest one , write an arrow the indicate that this circle is the biggest one  ",mturk2
+example-3,plt.annotate,Label a circular data with a cursor and biggest,mturk2
+example-3,plt.annotate,label orange bubble  biggest  ,mturk2
+example-3,plt.annotate,Write biggest with the arrow pointing to the orange sphere  ,mturk2
+example-3,plt.annotate plt.xlabel plt.ylabel,add label to scatter plot  ,mturk3
+example-3,plt.grid,add a dotted line grid  ,mturk2
+example-3,plt.grid,Add a grid  ,mturk2
+example-3,plt.grid,add dotted dotted horizontal and vertical lines to form grid  ,mturk2
+example-3,plt.grid,Add grid lines. ,mturk2
+example-3,plt.grid,Add gridlines in background.  ,mturk2
+example-3,plt.grid,Add gridlines to the graph. ,mturk2
+example-3,plt.grid,add in dashed x and y lines ,mturk2
+example-3,plt.grid,Add lines for the horizontal and vertical quantities. ,mturk1
+example-3,plt.grid,Adding graph lines  ,mturk3
+example-3,plt.grid,How do I add a grid format to my graph  ,mturk3
+example-3,plt.grid,insert gridlines in an existing graph ,mturk3
+example-3,plt.grid,scatter plot add grid lines  ,mturk3
+example-3,plt.scatter@alpha,Change bold color to light/opaque color on graph. ,mturk2
+example-3,plt.scatter@alpha,Change colors to a lighter hue of the same colors,mturk2
+example-3,plt.scatter@alpha,Color became dull,mturk1
+example-3,plt.scatter@alpha,Color became dull,mturk1
+example-3,plt.scatter@alpha,Color has weakened.,mturk1
+example-3,plt.scatter@alpha,decrease color brightness for all points in a scatter graph ,mturk3
+example-3,plt.scatter@alpha,Fade the colors of each circular data making each transparent.  ,mturk2
+example-3,plt.scatter@alpha,How do I make my graph circles more transparent in color,mturk3
+example-3,plt.scatter@alpha,Increase color intensity of the bubbles ,mturk2
+example-3,plt.scatter@alpha,lighten the circle colors ,mturk2
+example-3,plt.scatter@alpha,lighten the colors of the plotted circles,mturk1
+example-3,plt.scatter@alpha,make circle colors opaque ,mturk2
+example-3,plt.scatter@alpha,make colors darker,mturk2
+example-3,plt.scatter@alpha,make points semi-transparent in scatter graph ,mturk3
+example-3,plt.scatter@alpha,Make the colors on the graph more faded.  ,mturk2
+example-3,plt.scatter@alpha,place a lighter color to all the circles  ,mturk2
+example-3,plt.scatter@alpha,scatter plot transparency  ,mturk3
+example-3,plt.scatter@alpha,Show whole circles rather that covered circles where they overlap ,mturk2
+example-3,plt.scatter@c,Changing color on data plot,mturk3
+example-3,plt.scatter@s,Increase bubble size  ,mturk2
+example-3,plt.xlabel,add a label to the horizontal axis ,mturk2
+example-3,plt.xlabel,add horizontal(x) coordinate header ,mturk2
+example-3,plt.xlabel,Add X-coordinate text at the bottom ,mturk2
+example-3,plt.xlabel,Change the horizontal axis label to X-coordinate. ,mturk1
+example-3,plt.xlabel,X coordinate label is added,mturk1
+example-3,plt.xlabel plt.ylabel,Add axis labels to the X and Y axes.  ,mturk2
+example-3,plt.xlabel plt.ylabel,How do I add labels to my x and y coordinates ,mturk3
+example-3,plt.xlabel plt.ylabel,label axes in a graph ,mturk3
+example-3,plt.xlabel plt.ylabel,label x and y coordinates ,mturk2
+example-3,plt.xlabel plt.ylabel,Naming axis ,mturk3
+example-3,plt.xlabel plt.ylabel,write the word y-coordinate and x-coordinate in the proper fields ,mturk2
+example-3,plt.xlim,Change the scale of the horizontal axis to -0.2 thru 1.2  ,mturk2
+example-3,plt.xlim,change x-coordinate range to -0.2 to 1.2  ,mturk2
+example-3,plt.xlim plt.ylim,change the scale and range on both axes of graph  ,mturk3
+example-3,plt.xlim plt.ylim,Change the scales of the X and Y axes.  ,mturk2
+example-3,plt.xlim plt.ylim,Change the x-coordinate range -0.2 to 1.2 ,mturk2
+example-3,plt.xlim plt.ylim,Decrease range on x and y-axis.,mturk2
+example-3,plt.xlim plt.ylim,Expanding data plot ,mturk3
+example-3,plt.xlim plt.ylim,graph zoom ,mturk3
+example-3,plt.xlim plt.ylim,Limiting data range on graph,mturk3
+example-3,plt.xlim plt.ylim,Make scatter graph less crowded ,mturk3
+example-3,plt.xlim plt.ylim,Picture has been expanded.  ,mturk1
+example-3,plt.xlim plt.ylim,shrink x and y axis ,mturk2
+example-3,plt.xlim plt.ylim,Spread out the data in the graph. ,mturk2
+example-3,plt.xlim plt.ylim,Zoom out the graphic to make tagging something easier ,mturk2
+example-3,plt.xticks,How do I lower the increments/steps of my x-axis  ,mturk3
+example-3,plt.xticks,"in the x-coordinate change all the values , write the values -0.2 , 0.0 , 0.2 , 0.4 , 0.6, 0.8, 1.0 , 1.2 ",mturk2
+example-3,plt.ylabel,Add a label to the vertical axis,mturk2
+example-3,plt.ylabel,Add vertical(y) coordinate header ,mturk2
+example-3,plt.ylabel,Add Y-coordinate text on the left ,mturk2
+example-3,plt.ylabel,Change the vertical axis label to Y-coordinate. ,mturk1
+example-3,plt.ylabel,Y coordinate label is added ,mturk1
+example-3,plt.ylim,Change the scale of the vertical axis to -0.5 thru 1.5  ,mturk2
+example-3,plt.ylim,Change the y-coordinate range -0.5 to 1.5,mturk2
+example-3,plt.ylim,change y-coordinate range to -1.0 to 2.0  ,mturk2
+example-3,plt.yticks,"in the y-coordinate change all the values , start with -0.5 and the other are , 0.0, 0.5, 1.0, 1.5  ",mturk2
+example-4,plt.gca.spines.set_visible,How do I remove the border around my graph,mturk3
+example-4,plt.gca.spines.set_visible,remove outer border,mturk2
+example-4,plt.gca.spines.set_visible,Remove the right border ,mturk2
+example-4,plt.gca.spines.set_visible,Remove the top border ,mturk2
+example-4,plt.gca.spines.set_visible,remove top and right boarders ,mturk2
+example-4,plt.gca.spines.set_visible,remove top and right boundary lines,mturk2
+example-4,plt.gca.spines.set_visible,Take away the right line  ,mturk1
+example-4,plt.gca.spines.set_visible,Take away the top line  ,mturk1
+example-4,plt.gca.spines.set_visible,Top and right line of the chart has been removed.,mturk1
+example-4,plt.gca.spines.set_visible,upper border and right border are not visible,mturk2
+example-4,plt.gca.xaxis.grid,disable vertical grid lines  ,mturk3
+example-4,plt.gca.xaxis.grid,Remove the vertical grid lines  ,mturk2
+example-4,plt.gca.xaxis.grid,remove vertical dotted lines  ,mturk2
+example-4,plt.gca.xaxis.grid,remove vertical graphing lines  ,mturk2
+example-4,plt.gca.xaxis.grid,remove vertical grid lines  ,mturk2
+example-4,plt.gca.xaxis.grid,Remove vertical grid lines  ,mturk3
+example-4,plt.gca.xaxis.grid,Vertical lines from the graph removed.  ,mturk1
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,Change from grid to horizontal line graph ,mturk2
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,change from grid to line,mturk2
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,Create bold horizontal lines in background. ,mturk2
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,Delete grid lines in background.  ,mturk2
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,draw horizontal grid lines only ,mturk3
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,draw horizontal lines from the Quantity numbers ,mturk2
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,remove the dotted cross bars in the graph ,mturk3
+example-4,plt.gca.xaxis.grid plt.gca.yaxis.grid,The background grid changed to only showing horizontal lines that corresponde to each quality level marking.  ,mturk2
+example-4,plt.gca.xaxis.grid plt.grid,remove dotted gridlines ,mturk3
+example-4,plt.gca.xaxis.grid@linestyle plt.gca.yaxis.grid@linestyle,change grid lines to dotted  ,mturk3
+example-4,plt.gca.yaxis.grid@linestyle,add solid horizontal gridlines  ,mturk3
+example-4,plt.gca.yaxis.grid@linestyle,make horizontal lines solid instead of dashed ,mturk2
+example-4,plt.gca.yaxis.grid@linestyle,replace horizontal dotted grid lines with solid lines ,mturk2
+example-4,plt.grid,remove grid ,mturk3
+example-4,plt.grid,Take away the grid,mturk1
+example-4,plt.legend@fontsize,add point size to letters in legend,mturk2
+example-4,plt.legend@fontsize,Enlarge legend text.,mturk2
+example-4,plt.legend@fontsize,Enlarge the legend labels ,mturk2
+example-4,plt.legend@fontsize,Increase legend font size ,mturk2
+example-4,plt.legend@fontsize,make legend font larger,mturk3
+example-4,plt.legend@fontsize,The font is a little larger,mturk2
+example-4,plt.legend@numpoints,add diamond to Curve A line and move diamonds to ends  ,mturk2
+example-4,plt.legend@numpoints,change legend from 2 points on each line to 1 point ,mturk3
+example-4,plt.legend@numpoints,change markers for legend ,mturk2
+example-4,plt.legend@numpoints,"In legend, add square to Curve B line and move squares to ends",mturk2
+example-4,plt.legend@numpoints,replace dotted end legend keys with center dot legend keys.,mturk2
+example-4,plt.legend@numpoints,The key describing Curve A and Curve B changed.  ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,add border to legend ,mturk3
+example-4,plt.legend.get_frame.set_edgecolor,Change the information tab to a tab without borders ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,Delete perimeter lines around legend  ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,delete the rectangle that contain Curve A and Curve B,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,How do I remove the border around my graph legend ,mturk3
+example-4,plt.legend.get_frame.set_edgecolor,remove boarders for legend,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,remove border around legend ,mturk3
+example-4,plt.legend.get_frame.set_edgecolor,remove box around legend,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,Remove box around legend  ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,remove box from legend  ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,remove frame from legend,mturk3
+example-4,plt.legend.get_frame.set_edgecolor,Remove the borders around the legend  ,mturk2
+example-4,plt.legend.get_frame.set_edgecolor,remove the rectangle which contains hints.,mturk3
+example-4,plt.legend.get_frame.set_edgecolor,Take away the box around the legend,mturk1
+example-4,plt.xticks@rotation,change horizontal axis to slanted,mturk2
+example-4,plt.xticks@rotation,Change x axis scale to be diagonal  ,mturk3
+example-4,plt.xticks@rotation,get the numerals in the time axis rotated to the left by 45 degrees ,mturk3
+example-4,plt.xticks@rotation,How do I slant the numbers on my graph  ,mturk3
+example-4,plt.xticks@rotation,italicize x axis numbers  ,mturk3
+example-4,plt.xticks@rotation,oblique numerals on Time line 45 degrees to the left  ,mturk2
+example-4,plt.xticks@rotation,rotate all the number from Time ,mturk2
+example-4,plt.xticks@rotation,rotate x-axis labels ~45 degrees  ,mturk2
+example-4,plt.xticks@rotation,Slant data points along the x-axis. ,mturk2
+example-4,plt.xticks@rotation,slant the time numbers.,mturk2
+example-4,plt.xticks@rotation,slanted graph labels ,mturk3
+example-4,plt.xticks@rotation,The numbers on the time axis now tip diagonally from upper left to bottom right.  ,mturk2
+example-4,plt.xticks@rotation,Time on the chart has been slanted. ,mturk1
+example-4,plt.xticks@rotation,Write the values of horizontal axis diagonally,mturk2
+example-5,plt.clabel@fmt,change the labels to 1 decimal point  ,mturk2
+example-5,plt.clabel@fmt,change the measurement text format  ,mturk2
+example-5,plt.clabel@fmt,Convert decimals in 0.000 form to 0.0 form  ,mturk3
+example-5,plt.clabel@fmt,Decrease data numbers by two decimal places.  ,mturk2
+example-5,plt.clabel@fmt,decrease significant figures of numbers ,mturk2
+example-5,plt.clabel@fmt,drop last two digits from line numerals ,mturk2
+example-5,plt.clabel@fmt,Drop the value to the nearest tenth ,mturk2
+example-5,plt.clabel@fmt,Only the ones are included ex change 0.200 to 0.2,mturk2
+example-5,plt.clabel@fmt,reduce the isobar numbers decimal places to one.  ,mturk2
+example-5,plt.clabel@fmt,remove decimals after the third,mturk3
+example-5,plt.clabel@fmt,remove minuscule decimals ,mturk3
+example-5,plt.clabel@fmt,Remove the trailing zeros ,mturk2
+example-5,plt.clabel@fmt,Right most Zeros in labels are removed,mturk2
+example-5,plt.clabel@fmt,set label precision  ,mturk3
+example-5,plt.clabel@fmt,Switch From 3 decimal places to 1 decimal place.  ,mturk2
+example-5,plt.clabel@fmt,The right most zeros after the decimal point has been omitted.,mturk1
+example-5,plt.clabel@fmt,The right most zeros has been removed.,mturk1
+example-5,plt.clabel@fontsize,Enlarge numbers on graph. ,mturk2
+example-5,plt.clabel@fontsize,enlarge the numeral labels ,mturk2
+example-5,plt.clabel@fontsize,How do I make the graph numbers bigger  ,mturk3
+example-5,plt.clabel@fontsize,increase the font of the isobar numbers ,mturk2
+example-5,plt.colorbar,A scale has been added.,mturk1
+example-5,plt.colorbar,Add a color legend to the right of an image ,mturk3
+example-5,plt.colorbar,Add a legend to the right ,mturk2
+example-5,plt.colorbar,add in legend  ,mturk2
+example-5,plt.colorbar,add legend to the side ,mturk2
+example-5,plt.colorbar,add the bar on the right  ,mturk2
+example-5,plt.colorbar,Create color coated legend on right.  ,mturk2
+example-5,plt.colorbar,create legend and place to right of graph ,mturk2
+example-5,plt.colorbar,How do I add a legend on the right side of the graph  ,mturk3
+example-5,plt.contour@linewidths,best thickness for free drawing lines ,mturk3
+example-5,plt.contour@linewidths,bold informational lines  ,mturk3
+example-5,plt.contour@linewidths,bold the lines of information ,mturk3
+example-5,plt.contour@linewidths,Change lines to bold  ,mturk2
+example-5,plt.contour@linewidths,Darken the color of the data lines. ,mturk2
+example-5,plt.contour@linewidths,darken the isobar colors  ,mturk2
+example-5,plt.contour@linewidths,How do I make lines thicker,mturk3
+example-5,plt.contour@linewidths,How do I make the colors darker,mturk3
+example-5,plt.contour@linewidths,How to increase size of graph lines ,mturk3
+example-5,plt.contour@linewidths,How to increase width of graph lines  ,mturk3
+example-5,plt.contour@linewidths,How to make graph lines bolder  ,mturk3
+example-5,plt.contour@linewidths,increase color intensity,mturk2
+example-5,plt.contour@linewidths,increase line weight in the graph ,mturk2
+example-5,plt.contour@linewidths,increase thickness,mturk3
+example-5,plt.contour@linewidths,line thickness  ,mturk3
+example-5,plt.contour@linewidths,line width increased,mturk1
+example-5,plt.contour@linewidths,Lines has been brightened.,mturk1
+example-5,plt.contour@linewidths,Make a thin line into a thicker line/circle ,mturk3
+example-5,plt.contour@linewidths,make graph lines thicker ,mturk2
+example-5,plt.contour@linewidths,make lines thicker  ,mturk2
+example-5,plt.contour@linewidths,Make the lines in the graph bolder. ,mturk2
+example-5,plt.contour@linewidths,re-sizing ideas for graphs,mturk3
+example-5,plt.contour@linewidths,scale for drawing lines ,mturk3
+example-5,plt.contour@linewidths,thicken graph lines  ,mturk3
+example-5,plt.contour@linewidths,thicken height map lines ,mturk3
+example-5,plt.contour@linewidths,Thicken lines on graph that correspond to numberical data.  ,mturk2
+example-5,plt.contour@linewidths,thicken up the lines  ,mturk2
+example-5,plt.contour@linewidths,widen the isobar lines  ,mturk2
+example-5,plt.contour@linewidths plt.clabel@fontsize,How to enlarge graph lines and text,mturk3
+example-5,plt.contour@linewidths plt.clabel@fontsize,How to make graph lines and text larger ,mturk3
+example-5,plt.figure@figsize plt.subplots@figsize,How do I make the graph smaller,mturk3
+example-5,plt.figure@figsize plt.subplots@figsize,How to enlarge graph figures  ,mturk3
+example-5,plt.figure@figsize plt.subplots@figsize,How to make graph bigger  ,mturk3
+example-5,plt.figure@figsize plt.subplots@figsize,scale down the width  ,mturk2
+example-5,plt.figure@figsize plt.subplots@figsize,Shrink an image by approximately 25 percent,mturk3
+example-5,plt.grid,add a dotted line grid  ,mturk2
+example-5,plt.grid,add dotted dotted horizontal and vertical lines to form grid  ,mturk2
+example-5,plt.grid,add dotted line guides  ,mturk2
+example-5,plt.grid,add grid  ,mturk2
+example-5,plt.grid,Add grid lines  ,mturk2
+example-5,plt.grid,Add grid lines in background. ,mturk2
+example-5,plt.grid,Add grid lines on the horizontal and vertical axes  ,mturk2
+example-5,plt.grid,add in x an y dashed lines  ,mturk2
+example-5,plt.grid,How do I add a grid to my graph ,mturk3

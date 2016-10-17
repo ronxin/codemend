@@ -1,0 +1,9 @@
+/*
+http://codepen.io/maxds/pen/jgeoA/
+*/
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}

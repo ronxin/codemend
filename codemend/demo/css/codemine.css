@@ -1,0 +1,261 @@
+/*
+Responsive textarea
+*/
+textarea {
+  width: 100%;
+  font-family: Courier, "Courier New";
+}
+
+body {
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.my-column {
+  float: left;
+  margin-left: 5px;
+  padding-left: 10px;
+}
+
+/*
+Responsive SVG
+*/
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+#top-right-query-box {
+  padding-top: 25px;
+}
+
+.nl-text-field {
+  min-width:75%;
+  font-size:15pt;
+  outline: none;
+  background-color: transparent;
+  border: 0px solid;
+  color: #777;
+  padding-left: 10px;
+}
+
+.alert > pre {
+  background-color: transparent;
+  border: 0px solid;
+}
+
+.alert {
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.line-widget-suggest {
+  background: lightyellow;
+  color: grey;
+}
+
+.code-helper-banner {
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: #eee;
+}
+
+.code-suggest-tile {
+  float: left;
+  font-size: 10pt;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  cursor:pointer;
+  color: #555;
+}
+
+.code-suggest-tile.active {
+  border-radius: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-color: #999;
+  background-color: #FFFFE0;
+  border-bottom-color: transparent;
+  margin-bottom: 0px;
+}
+
+.code-suggest-tile.checked {
+  border-color: blue;
+  /*border-width: 2px;*/
+}
+
+.code-suggest-tile.active.checked {
+  border-color: blue;
+  border-bottom-color: transparent;
+}
+
+.code-suggest-tile .delete-button {
+  color: darkred;
+  display: none;
+}
+
+.code-suggest-tile.checked .delete-button {
+  display: inline;
+}
+
+.code-suggest-detail-info {
+  background-color: #FFFFE0;
+  width: 100%;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #777;
+  border: 1px solid #eee;
+  border-top-color: #FFFFE0;
+}
+
+.code-suggest-tile.active.level-1,.code-suggest-detail-info.level-1,
+.code-suggest-tile.active.level-3,.code-suggest-detail-info.level-3 {
+  background-color: #ffffad;
+}
+
+.suggest-group-title,
+.google-result-title {
+  font-size: 12pt;
+  clear: both;
+  background-color: transparent;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  /*font-family: "Times", "Times New Roman";*/
+  margin-bottom: 3px;
+  color: black;
+}
+
+.suggest-group .cm-container {
+  padding-left: 5px;
+}
+
+.suggest-group-title.level-0,
+.google-result-title {
+  background-color: #eee;
+}
+
+#top-left-panel {
+  border: #eee;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#right-main-content {
+  overflow-y: scroll;
+}
+
+#summary-box {
+  margin-left: 15px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.summary-group {
+  /*border: 1px solid #eee;*/
+}
+
+.suggest-group,
+.google-result-body {
+  /* border: 1px solid lightgrey; */
+  padding-bottom: 5px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 10px;
+  margin-right: 5px;
+  border-left: 5px solid #eee;
+}
+
+.google-result-body {
+  margin-left: 0px;
+}
+
+.suggest-group.level-0 {
+  margin-left: 0px;
+}
+
+.suggest-group-body {
+  padding-right: 5px;
+}
+
+/* http://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing */
+.suggest-group-body:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+#example-gallery {
+  margin-left: 15px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.example-gallery-item {
+  float: left;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  cursor: pointer;
+}
+
+#loader-gif-plt {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* CodeMirror styling */
+.CodeMirror {
+}
+
+/* Temporary preview codemirror */
+.tmp .CodeMirror {
+  height: auto;
+  border: 1px solid blue;
+}
+
+.cm-token-focused {
+  border-bottom: 1px solid #777;
+  /*
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFklEQVQI12NgYGBgkKzc8x9CMDAwAAAmhwSbidEoSQAAAABJRU5ErkJggg==);
+  background-position: bottom;
+  background-repeat: repeat-x;
+  */
+}
+
+.cm-matchhighlight {
+  background-color: #eee;
+}
+
+.CodeMirror-selection-highlight-scrollbar {
+  background-color: gold;
+}
+
+.google-result-child {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border-top: 1px solid #777;
+  border-bottom: 1px solid #777;
+}

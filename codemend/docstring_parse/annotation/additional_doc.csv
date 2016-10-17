@@ -1,0 +1,10 @@
+elem_id,doc
+plt.barbs@barb_increments@half,half barbs
+plt.barbs@barb_increments@full,full barbs
+plt.barbs@barb_increments@flag,flags
+plt.barbs@sizes@spacing,"space between features (flags, full/half barbs)"
+plt.barbs@sizes@height,height (distance from shaft to top) of a flag or full barb
+plt.barbs@sizes@width,"width of a flag, twice the width of a full barb"
+plt.barbs@sizes@emptybarb,radius of the circle used for low magnitudes
+plt.bar@hatch,set hatching pattern
+plt.title@bbox@pad,padding of title bounding box

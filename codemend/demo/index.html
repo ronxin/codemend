@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CodeMend Demo</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="CodeMirror/lib/codemirror.css">
+    <link rel="stylesheet" href="css/moreless.css" >
+    <link rel="stylesheet" href="css/codemend.css" >
+    <link rel="stylesheet" href="css/codemend_palette.css" >
+  </head>
+  <body>
+
+  <div class="row">
+    <div id="left-column" class="my-column">
+
+      <div>
+        <span><h1 id="app-header">#CodeMend Demo</h1></span>
+      </div>
+
+      <div id="top-left-panel">
+          <div class="code-helper-banner">
+            <span >Code <span class='hide-in-user-study'>- <a href="code-help.html">Help</a></span></span>
+              &nbsp;&nbsp;&nbsp;
+            <span class='hide-in-user-study'>Presets: <select id="sel-presets"></select></span>
+          </div>
+          <div>
+            <textarea rows="20" id="code-text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
+          </div>
+          <div>
+            <div class="btn-group">
+              <button class="btn btn-success" id="btn-execute">Execute (Ctrl + Enter)</button>
+            </div>
+          </div>
+      </div> <!-- end of top-left panel -->
+
+      <div class="no-padding" id="bottom-left-panel">
+        <div id="plt-render-box" class="svg-container"></div>
+        <div class="" id="loader-gif-plt" hidden><img src="img/ajax-loader.gif"></div>
+      </div> <!-- end of bottom-left panel -->
+
+    </div> <!-- end of left column -->
+
+    <div id="right-column" class="my-column">
+
+      <div id="top-right-query-box">
+        <input class="nl-text-field" placeholder="Type a natural language command"></input>
+      </div>
+
+      <div id="right-main-content">
+        <div hidden class="alert alert-danger" id="top-error"></div>
+        <div hidden class="alert alert-danger" id="bottom-error-plt"></div>
+        <div hidden class="alert alert-danger" id="bottom-error-brain"></div>
+
+        <div class="" id="summary-box"></div>
+        <div class="" id="example-gallery"></div>
+        <div class="" id="loader-gif-nlp" hidden><img src="img/ajax-loader.gif"></div>
+      </div>
+
+    </div> <!-- end of right column -->
+
+  </div>
+
+  <script src="js/jquery-2.1.3.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/d3.v3.min.js"></script>
+  <script src="js/assert.js"></script>
+  <script src="js/moreless.js"></script>
+
+  <script src="CodeMirror/lib/codemirror.js"></script>
+  <script src="CodeMirror/addon/scroll/annotatescrollbar.js"></script>
+  <script src="CodeMirror/addon/search/matchesonscrollbar.js"></script>
+  <script src="CodeMirror/addon/search/searchcursor.js"></script>
+  <script src="CodeMirror/addon/search/match-highlighter.js"></script>
+  <script src="CodeMirror/mode/python/python.js"></script><!--codemirror mode file-->
+
+
+  <script src="js/codemend.js"></script>
+  </body>
+</html>

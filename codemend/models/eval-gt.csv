@@ -1,0 +1,54 @@
+case_study_no,answer_func,answer_arg,query
+1,set_hatch,0,change the texture patterns of the bar
+1,set_hatch,0,set the hatching pattern of the bars
+1,legend,ncol,arrange the legend items side by side
+1,legend,ncol,adjust the number of columns in the legend box
+1,get_cmap,0,get a qualitative colormap
+1,legend,loc,move the legend box to the bottom of the figure
+1,title,0,set the title
+1,set_width,0,change the bar width
+1,bar,color,set the color of the bar
+1,legend,shadow,add shadow to the legend box
+2,pie,,create a pie chart
+2,pie,,make a circle plot
+2,pie,explode,make a piece of the pie separate from the others
+2,pie,explode,explode a piece of the pie
+2,axis,0,set aspect ratio to be equal so that pie is drawn as a circle
+2,title,y,adjust the vertical position of the title
+2,set_bbox,dict(facecolor),set the background of the title box to be blue
+2,pie,labels,add label to the slices
+2,pie,shadow,add shadow to the slices
+2,pie,startangle,rotate the pie by 90 degrees
+3,figure,figsize,adjust the figure size
+3,figure,figsize,make the figure larger
+3,scatter,,create a scatter plot
+3,scatter,s,set the sizes of the markers
+3,scatter,c,set the colors of the markers
+3,scatter,alpha,set the transparency of the markers
+3,annotate,arrowprops,make the arrow fatter
+3,annotate,arrowprops,set the style of the arrow
+3,annotate,,add a text annotation
+3,ylabel,0,add a label to the y-axis
+4,plot,1,set line marker to diamonds
+4,plot,color,change the line colors to different shades of grey
+4,plot,markeredgecolor,remove marker edges
+4,set_edgecolor,0,remove legend bounding box
+4,xticks,rotation,rotate x-axis tick labels by 45 degrees
+4,grid,0,remove vertical grid lines
+4,grid,linestyle,change the line type of the grid lines
+4,set_visible,0,remove the upper and right borders
+4,legend,numpoints,set the number of markers shown per legend item
+4,plot,clip_on,show curve elements outside axes range
+4,plot,zorder,put grids behind the curves and the markers
+4,set_tick_params,width,change the linewidth of the tick lines
+4,set_linewidth,0,change the axes line width
+4,legend,borderpad,add legend box padding
+4,tick_params,direction,make y-axis tick lines pointing to the opposite direction
+5,contour,,create a contour plot
+5,setp,linewidth,thicken the zero contour
+5,clabel,,add label to the contour plot
+5,colorbar,,make a colorbar for the contour lines
+5,colorbar,orientation,make the colorbar horizontal
+5,set_position,0,adjust the position of the color bar
+5,clabel,fmt,show only one digit after the decimal point for each contour label
+5,colorbar,shrink,shrink the colorbar

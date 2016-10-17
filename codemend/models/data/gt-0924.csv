@@ -1,0 +1,57 @@
+File,Query,Expected,Remarks
+bar,add grid,plt.grid,basic
+bar,add grid line,plt.grid,basic
+bar,add grid lines,plt.grid,
+bar,add gridline,plt.grid,
+bar,add gridlines,plt.grid,
+bar,add hash on bar,plt.bar@hatch,
+bar,add hatch,plt.bar@hatch,basic
+bar,add hatching patterns,plt.bar@hatch,
+bar,add pattern,plt.bar@hatch,
+bar,add pattern to bar,plt.bar@hatch,
+bar,add texture pattern,plt.bar@hatch,
+bar,bar fill star,plt.bar@hatch,
+bar,bar pattern,plt.bar@hatch,
+bar,change the color of the bar,plt.bar@color,
+bar,grid,plt.grid,basic
+bar,pattern,plt.bar@hatch,
+bar,rotate label,plt.xticks@rotation,
+bar,rotation,plt.xticks@rotation,basic
+bar,tilt label,plt.xticks@rotation,
+empty,create a bar chart,plt.bar,basic
+eval3,change color of arrow,plt.annotate@arrowprops@facecolor,
+eval3,make points more transparent,plt.scatter@alpha,basic
+line,add dots to line,plt.plot@marker,
+line,add marker to line,plt.plot@marker,
+line,change color,plt.plot@color,
+line,change color of the line,plt.plot@color,
+line,change line color,plt.plot@color,
+line,change marker,plt.plot@marker,basic
+line,color,plt.plot@color,basic
+line,increase line thickness,plt.plot@linewidth,
+line,increase linewidth,plt.plot@linewidth,
+line,increase the width of the line,plt.plot@linewidth,
+line,licrease line width,plt.plot@linewidth,
+line,line thickness,plt.plot@linewidth,
+line,linewidth,plt.plot@linewidth,basic
+line,make line thicker,plt.plot@linewidth,
+line,make the blue line thicker,plt.plot@linewidth,
+line,make the line thicker,plt.plot@linewidth,
+line,marker,plt.plot@marker,basic
+line,thicker,plt.plot@linewidth,
+line,thickness,plt.plot@linewidth,
+line,width,plt.plot@linewidth,
+line_video,add grids,plt.grid,
+line_video,change line thickness,plt.plot@linewidth,
+line_video,move legend,plt.legend@loc,
+line_video,move legend location,plt.legend@loc,basic
+pie,change title box size,plt.title@bbox@pad,
+pie,change title margin,plt.title@bbox@pad,
+pie,facecolor,plt.title@bbox@facecolor,basic
+pie,increase the padding,plt.title@bbox@pad,
+pie,larger box around title,plt.title@bbox@pad,
+pie,padding,plt.title@bbox@pad,
+pie,title background color,plt.title@bbox@facecolor,
+pie,title bbox,plt.title@bbox,basic
+pie,title bbox facecolor,plt.title@bbox@facecolor,basic
+pie,title facecolor,plt.title@bbox@facecolor,basic

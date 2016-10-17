@@ -1,0 +1,5 @@
+To use the modules defined in this folder, please modify the environment vairable PYTHONPATH.
+On Mac, add the following line to ~/.bash_profile (replace path_to_folder with the real path)
+  export PYTHONPATH="$PYTHONPATH:/path_to_folder/consim/py/lib"
+
+On Unix/Linux, add the same line to ~/.bashrc

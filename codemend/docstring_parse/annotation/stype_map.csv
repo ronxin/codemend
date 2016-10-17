@@ -1,0 +1,10 @@
+matplotlib,mpl
+matplotlib.pyplot,plt
+matplotlib.axes.Axes,ax
+matplotlib.pyplot.axes,plt.gca
+matplotlib.pyplot.figure.add_axes,plt.gca
+matplotlib.pyplot.figure.gca,plt.gca
+matplotlib.pyplot.figure.add_subplot,plt.gca
+matplotlib.pyplot.gcf.add_subplot,plt.gca
+matplotlib.pyplot.subplot,plt.gca
+matplotlib.pyplot.subplot2grid,plt.gca

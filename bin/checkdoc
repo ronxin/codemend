@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python -m codemend.docstring_parse.check_doc "$@"
